@@ -12,9 +12,9 @@ project_name= "NLP"
 
 list_of_files=[
     ".github/workflows/.gitkeep",
-    f"src/__init__.py",
     f"src/components/__init__.py",
     f"src/utils/__init__.py",
+    f"src/exception/__init__.py",
     f"src/utils/common.py",
     f"src/logging/__init__.py",
     f"src/config/__init__.py",
