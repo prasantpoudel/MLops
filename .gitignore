@@ -4,6 +4,12 @@ __pycache__/
 *$py.class
 **/.DS_Store
 
+env
+.ipynb_checkpoints
+artifacts
+logs
+**__pycache__**
+something
 
 # C extensions
 *.so
